@@ -107,7 +107,7 @@ main {
   padding: 60px 0;
 }
 .image-responsive {
-  max-width: 100%;
+  width: 100%;
   display: block;
   margin: 0 auto;
 }
